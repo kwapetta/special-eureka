@@ -1,5 +1,5 @@
 <h1 align="center">EURIKA(vintage-online)</h1>
-![image alt](https://github.com/kwapetta/special-eureka/blob/main/images.jfif)
+![Image alt](https://github.com/kwapetta/special-eureka/blob/main/images.jfif)
 Old goods always cost a lot of money, this second hand goods industry
 remains profitable and will grow as consumers continue to become interested in vintage items. 
 <h2>Description</h2>
