@@ -1,5 +1,5 @@
 <h1 align="center">EURIKA(vintage-online)</h1>
-![] (images.jfif)
+![image alt]
 Old goods always cost a lot of money, this second hand goods industry
 remains profitable and will grow as consumers continue to become interested in vintage items. 
 <h2>Description</h2>
