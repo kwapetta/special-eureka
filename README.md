@@ -9,7 +9,7 @@ One of the interesting trends is vintage clothing, customized or remade taking i
 <h2>Tutorial</h2>
 
 You're sending
-a photo of an unnecessary vintage item brought to our store. our team of workers begins to evaluate she condition and value.After this, the store buys item to customize them taking into account modern fashion trends, and subsequently sells.
+a photo of an unnecessary vintage item brought to our store. With the help of a certain program, which subsequently scans the item and selects a custom one.our team of workers begins to evaluate she condition and value.After this, the store buys item to customize them taking into account modern fashion trends, and subsequently sells.
 <h2>Also the user can</h2>
 
 -A buyer who is not satisfied with the price offered for his item can call the customer help center.
