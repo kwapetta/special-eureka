@@ -1,11 +1,9 @@
 <h1 align="center">EURIKA(vintage-online)</h1>
 
-Old goods always cost a lot of money, this second hand goods industry
-remains profitable and will grow as consumers continue to become interested in vintage items. 
-<h2>Description</h2>
 
-Consider selling abandoned, vintage, or upcycled items on an e-commerce platform or app.
-One of the interesting trends is vintage clothing, customized or remade taking into account modern fashion trends, a kind of fashionable vintage.
+<h2>Description</h2>
+Used (vintage) goods remain a profitable industry.Which will grow as consumers continue to be interested in vintage items. One of the interesting trends is vintage clothing customized or redesigned taking into account modern fashion trends.
+
 <h2>Tutorial</h2>
 
 You're sending
