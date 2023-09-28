@@ -1,5 +1,6 @@
 <h1 align="center">vintage-online</h1>
 
+![](https://github.com/kwapetta/special-eureka/blob/main/11.jpg)
 
 <h2>Description</h2>
 Used (vintage) goods remain a profitable industry.Which will grow as consumers continue to be interested in vintage items. One of the interesting trends is vintage clothing customized or redesigned taking into account modern fashion trends.The purpose of creating the application is to help customizers (designers), to save more time for the development of a sketch, design.
