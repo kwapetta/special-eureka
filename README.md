@@ -1,4 +1,4 @@
-<h1 align="center">vintage-online</h1>
+<h1 align="center">Eureka(vintage-online)</h1>
 
 ![](https://github.com/kwapetta/special-eureka/blob/main/11.jpg)
 
