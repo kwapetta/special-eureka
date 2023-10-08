@@ -7,7 +7,7 @@ Used (vintage) goods remain a profitable industry.Which will grow as consumers c
 
 <h2>Tutorial</h2>
 
-You send photos of unnecessary vintage items to the app. The program determines its condition and cost, after which it scans the thing from all sides.The program shows possible colors, selects custom.You can customize the theme and color scheme.The application also has a function for selecting the most successful image placement.
+You send photos of unnecessary vintage items to the app. The program determines its condition and cost,brand, after which it scans the thing from all sides.The program shows possible colors, selects custom.You can customize the theme and color scheme.The application also has a function for selecting the most successful image placement.
 After that, things are sent to the store, for example, and they are sold.
 <h2>Also the user can</h2>
 
