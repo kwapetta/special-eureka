@@ -1,27 +1,21 @@
-<h1 align="center">Eureka(vintage-online)</h1>
+<h1 align="center">Wardrobe</h1>
 
 ![](https://github.com/kwapetta/special-eureka/blob/main/11.jpg)
 
 <h2>Description</h2>
-Used (vintage) goods remain a profitable industry.Which will grow as consumers continue to be interested in vintage items. One of the interesting trends is vintage clothing customized or redesigned taking into account modern fashion trends.The purpose of creating the application is to help customizers (designers), to save more time for the development of a sketch, design.
-
+Your digital wardrobe
+The purpose of creating the application is to help ordinary users save more time for choosing onions.
 <h2>Tutorial</h2>
-
-You send photos of unnecessary vintage items to the app. The program determines its condition and cost,brand, after which it scans the thing from all sides.The program shows possible colors, selects custom.You can customize the theme and color scheme.The application also has a function for selecting the most successful image placement.
-After that, things are sent to the store, for example, and they are sold.
-<h2>Also the user can</h2>
-
--A buyer who is not satisfied with the price offered for his item can call the customer help center.
-
--A buyer who wants to buy his own items after customization receives a 20% discount.
-
--If the buyer buys more than 2 items, the third one goes as a gift to choose from.
-
+You send photos of things to the app. The program determines what it is (skirt, dress, pants, etc.), after which it is necessary to photograph the thing from all sides.The program selects a bow of clothing with this thing.You can customize the theme and color scheme.The application also has a function of viewing catalogs from fashion magazines and shows, as well as geolocation of stores where you can buy branded items.After photographing things, the data is sent to the “closet”, where the previously photographed and edited things are ready to create a fashionable image.To speed up the search for your favorite thing, you can sort your clothes by category.
 <h2>+:</h2>
-- To allow things to live another life
--Development of online clothing stores
+-Helps to plan your daily bows anywhere in advance, without being at home at the same time
+
+
+-Development of clothing stores
+
 -Constant updates in the field of fashion
 <h2>-:</h2>
--Refusal at the sight of things in very poor condition
---Unstable price
--Offers of customization of the program may not coincide with the expectations of the client
+
+-Not finding things in the store
+
+-Blurriness of the photo.
